@@ -1,0 +1,350 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7FC0D3D11C4840A50080E998 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC0D3D01C4840A50080E998 /* AppDelegate.swift */; };
+		7FC0D3D31C4840A50080E998 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC0D3D21C4840A50080E998 /* ViewController.swift */; };
+		7FC0D3D61C4840A50080E998 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3D41C4840A50080E998 /* Main.storyboard */; };
+		7FC0D3D81C4840A50080E998 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3D71C4840A50080E998 /* Assets.xcassets */; };
+		7FC0D3DB1C4840A50080E998 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3D91C4840A50080E998 /* LaunchScreen.storyboard */; };
+		7FC0D3E61C4841D80080E998 /* Million.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3E21C4841D80080E998 /* Million.mp3 */; };
+		7FC0D3E71C4841D80080E998 /* Show You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3E31C4841D80080E998 /* Show You.mp3 */; };
+		7FC0D3E81C4841D80080E998 /* Snakeships.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3E41C4841D80080E998 /* Snakeships.mp3 */; };
+		7FC0D3E91C4841D80080E998 /* Spotless Mind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3E51C4841D80080E998 /* Spotless Mind.mp3 */; };
+		7FC0D3EB1C4842450080E998 /* Solid.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3EA1C4842450080E998 /* Solid.mp3 */; };
+		7FC0D3F41C4845E90080E998 /* Tinashe.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3F01C4845E90080E998 /* Tinashe.png */; };
+		7FC0D3F81C4846150080E998 /* Justin Beiber.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3F71C4846150080E998 /* Justin Beiber.png */; };
+		7FC0D3FA1C4856580080E998 /* TyDollaSign.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3F91C4856580080E998 /* TyDollaSign.png */; };
+		7FC0D3FD1C4857460080E998 /* Tink.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3FB1C4857460080E998 /* Tink.png */; };
+		7FC0D3FE1C4857460080E998 /* Jhene.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FC0D3FC1C4857460080E998 /* Jhene.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7FC0D3CD1C4840A50080E998 /* Swipe It AudioPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swipe It AudioPlayer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7FC0D3D01C4840A50080E998 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7FC0D3D21C4840A50080E998 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7FC0D3D51C4840A50080E998 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7FC0D3D71C4840A50080E998 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7FC0D3DA1C4840A50080E998 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7FC0D3DC1C4840A50080E998 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FC0D3E21C4841D80080E998 /* Million.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Million.mp3; sourceTree = "<group>"; };
+		7FC0D3E31C4841D80080E998 /* Show You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Show You.mp3"; sourceTree = "<group>"; };
+		7FC0D3E41C4841D80080E998 /* Snakeships.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Snakeships.mp3; sourceTree = "<group>"; };
+		7FC0D3E51C4841D80080E998 /* Spotless Mind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Spotless Mind.mp3"; sourceTree = "<group>"; };
+		7FC0D3EA1C4842450080E998 /* Solid.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Solid.mp3; sourceTree = "<group>"; };
+		7FC0D3F01C4845E90080E998 /* Tinashe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tinashe.png; sourceTree = "<group>"; };
+		7FC0D3F71C4846150080E998 /* Justin Beiber.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Justin Beiber.png"; sourceTree = "<group>"; };
+		7FC0D3F91C4856580080E998 /* TyDollaSign.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TyDollaSign.png; sourceTree = "<group>"; };
+		7FC0D3FB1C4857460080E998 /* Tink.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tink.png; sourceTree = "<group>"; };
+		7FC0D3FC1C4857460080E998 /* Jhene.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jhene.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7FC0D3CA1C4840A50080E998 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7FC0D3C41C4840A50080E998 = {
+			isa = PBXGroup;
+			children = (
+				7FC0D3EE1C4845CA0080E998 /* Images */,
+				7FC0D3EC1C4845AC0080E998 /* Audio */,
+				7FC0D3CF1C4840A50080E998 /* Swipe It AudioPlayer */,
+				7FC0D3CE1C4840A50080E998 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7FC0D3CE1C4840A50080E998 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7FC0D3CD1C4840A50080E998 /* Swipe It AudioPlayer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7FC0D3CF1C4840A50080E998 /* Swipe It AudioPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				7FC0D3D01C4840A50080E998 /* AppDelegate.swift */,
+				7FC0D3D21C4840A50080E998 /* ViewController.swift */,
+				7FC0D3D41C4840A50080E998 /* Main.storyboard */,
+				7FC0D3D71C4840A50080E998 /* Assets.xcassets */,
+				7FC0D3D91C4840A50080E998 /* LaunchScreen.storyboard */,
+				7FC0D3DC1C4840A50080E998 /* Info.plist */,
+			);
+			path = "Swipe It AudioPlayer";
+			sourceTree = "<group>";
+		};
+		7FC0D3EC1C4845AC0080E998 /* Audio */ = {
+			isa = PBXGroup;
+			children = (
+				7FC0D3E21C4841D80080E998 /* Million.mp3 */,
+				7FC0D3E31C4841D80080E998 /* Show You.mp3 */,
+				7FC0D3E41C4841D80080E998 /* Snakeships.mp3 */,
+				7FC0D3E51C4841D80080E998 /* Spotless Mind.mp3 */,
+				7FC0D3EA1C4842450080E998 /* Solid.mp3 */,
+			);
+			name = Audio;
+			sourceTree = "<group>";
+		};
+		7FC0D3EE1C4845CA0080E998 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				7FC0D3F01C4845E90080E998 /* Tinashe.png */,
+				7FC0D3F71C4846150080E998 /* Justin Beiber.png */,
+				7FC0D3F91C4856580080E998 /* TyDollaSign.png */,
+				7FC0D3FB1C4857460080E998 /* Tink.png */,
+				7FC0D3FC1C4857460080E998 /* Jhene.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7FC0D3CC1C4840A50080E998 /* Swipe It AudioPlayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7FC0D3DF1C4840A50080E998 /* Build configuration list for PBXNativeTarget "Swipe It AudioPlayer" */;
+			buildPhases = (
+				7FC0D3C91C4840A50080E998 /* Sources */,
+				7FC0D3CA1C4840A50080E998 /* Frameworks */,
+				7FC0D3CB1C4840A50080E998 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Swipe It AudioPlayer";
+			productName = "Swipe It AudioPlayer";
+			productReference = 7FC0D3CD1C4840A50080E998 /* Swipe It AudioPlayer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7FC0D3C51C4840A50080E998 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "UXOThings LLC.";
+				TargetAttributes = {
+					7FC0D3CC1C4840A50080E998 = {
+						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 8ZY9CCVB5B;
+					};
+				};
+			};
+			buildConfigurationList = 7FC0D3C81C4840A50080E998 /* Build configuration list for PBXProject "Swipe It AudioPlayer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7FC0D3C41C4840A50080E998;
+			productRefGroup = 7FC0D3CE1C4840A50080E998 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7FC0D3CC1C4840A50080E998 /* Swipe It AudioPlayer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7FC0D3CB1C4840A50080E998 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7FC0D3E71C4841D80080E998 /* Show You.mp3 in Resources */,
+				7FC0D3E91C4841D80080E998 /* Spotless Mind.mp3 in Resources */,
+				7FC0D3EB1C4842450080E998 /* Solid.mp3 in Resources */,
+				7FC0D3DB1C4840A50080E998 /* LaunchScreen.storyboard in Resources */,
+				7FC0D3F81C4846150080E998 /* Justin Beiber.png in Resources */,
+				7FC0D3FE1C4857460080E998 /* Jhene.png in Resources */,
+				7FC0D3E61C4841D80080E998 /* Million.mp3 in Resources */,
+				7FC0D3D81C4840A50080E998 /* Assets.xcassets in Resources */,
+				7FC0D3D61C4840A50080E998 /* Main.storyboard in Resources */,
+				7FC0D3F41C4845E90080E998 /* Tinashe.png in Resources */,
+				7FC0D3FD1C4857460080E998 /* Tink.png in Resources */,
+				7FC0D3FA1C4856580080E998 /* TyDollaSign.png in Resources */,
+				7FC0D3E81C4841D80080E998 /* Snakeships.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7FC0D3C91C4840A50080E998 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7FC0D3D31C4840A50080E998 /* ViewController.swift in Sources */,
+				7FC0D3D11C4840A50080E998 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7FC0D3D41C4840A50080E998 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7FC0D3D51C4840A50080E998 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		7FC0D3D91C4840A50080E998 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7FC0D3DA1C4840A50080E998 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7FC0D3DD1C4840A50080E998 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7FC0D3DE1C4840A50080E998 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7FC0D3E01C4840A50080E998 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Swipe It AudioPlayer/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.6over6.Swipe-It-AudioPlayer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7FC0D3E11C4840A50080E998 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Swipe It AudioPlayer/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.6over6.Swipe-It-AudioPlayer";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7FC0D3C81C4840A50080E998 /* Build configuration list for PBXProject "Swipe It AudioPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7FC0D3DD1C4840A50080E998 /* Debug */,
+				7FC0D3DE1C4840A50080E998 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7FC0D3DF1C4840A50080E998 /* Build configuration list for PBXNativeTarget "Swipe It AudioPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7FC0D3E01C4840A50080E998 /* Debug */,
+				7FC0D3E11C4840A50080E998 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7FC0D3C51C4840A50080E998 /* Project object */;
+}
